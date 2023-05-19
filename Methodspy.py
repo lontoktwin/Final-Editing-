@@ -1,4 +1,9 @@
 # Methodspy.py>
+"""This part of the code is for the methods wherein the job position, title, 
+company, location, qualifications and benefits are located. Once you access 
+the list of the fields/specialization you can choose what job you preferred 
+and suitable for you, and it will display all of the details abput the job."""
+
 class Job:
     def __init__(self, title, company, location, description, qualifications, benefits):
         self.title= title 
