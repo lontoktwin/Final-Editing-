@@ -8,7 +8,7 @@ CS-1203
     - a. Audit and Taxation
     - b. Banking and Financial
     - c. General Cost Accounting
- 5. Admin and HUman Resources
+ 2. Admin and HUman Resources
    - a. Clerical / Administrative Support
    - b. Human Resources
    - c. Secretarial Executive Personal Assitant
