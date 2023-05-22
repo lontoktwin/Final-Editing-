@@ -1,7 +1,7 @@
 # Final-Editing-
 Lontok, Mara Jane M. & Lontok, Mara Joy M.
 CS-1203
-YOUTUBE VIDEO LINK: https://youtu.be/R4w-hrxikS8
+YOUTUBE VIDEO LINK: https://youtu.be/8qVxBrcCGeY
 
   This Code is similar to JobStreet.ph where you can choose on what field you are in to see if there is/are available job suitable for your field and specialization. Online recruitment allows for immediate, real-time interaction and 24×7 hiring and job search activity.
   
